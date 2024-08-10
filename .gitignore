@@ -1,2 +1,36 @@
 *.lock
 .idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyi
+*.pyc
+*.pyz
+*.pyzw
+
+# Poetry
+.venv/
+.poetry/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
